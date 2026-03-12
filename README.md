@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1000&q=80" width="100%" alt="green-background"/>
-</p>
 
 <h1 align="center">Hello, I'm Radcliff Unabia III 👋</h1>
 <p align="center">
