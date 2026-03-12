@@ -16,7 +16,6 @@ I am an **IT student and aspiring UI/UX designer** passionate about creating **c
 
 I enjoy building systems that combine **functionality, design, and real-world usefulness**.
 
-Currently, I am developing my **Capstone Project — BantayBaha**, an **IoT-based flood monitoring system** designed to help communities monitor water levels and improve disaster response.
 
 **Main Interests**
 
