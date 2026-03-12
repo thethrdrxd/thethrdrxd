@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Radcliff Unabia 👋</h1>
+<h1 align="center">Hello, I'm Radcliff Unabia III 👋</h1>
 
 <p align="center">
 IT Student • Aspiring UI/UX Designer • Developer
@@ -48,6 +48,7 @@ Additional Tools:
 - Git
 - VS Code
 - Figma
+- Canva
 
 ---
 
