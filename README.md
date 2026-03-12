@@ -110,5 +110,5 @@ Technologies Used:
 ---
 
 <p align="center">
-✨ Always learning. Always building.
+I once dreamed of building structures that touch the sky. Now I build systems that live quietly behind the screen.
 </p>
