@@ -1,127 +1,102 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Radcliff Unabia III Portfolio</title>
-<style>
-  /* Pthalo green background */
-  body {
-    margin: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #123524; /* pthalo green */
-    color: #ffffff;
-    overflow-x: hidden;
-    position: relative;
-  }
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1000&q=80" width="100%" alt="green-background"/>
+</p>
 
-  /* Subtle moving gradient animation */
-  body::before {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: -50%;
-    width: 200%;
-    height: 100%;
-    background: linear-gradient(120deg, rgba(255,255,255,0.05), rgba(0,0,0,0.05), rgba(255,255,255,0.05));
-    animation: moveGradient 15s linear infinite;
-    pointer-events: none;
-  }
+<h1 align="center">Hello, I'm Radcliff Unabia III 👋</h1>
+<p align="center">
+IT Student • Aspiring UI/UX Designer • Developer
+</p>
 
-  @keyframes moveGradient {
-    0% { transform: translateX(0); }
-    50% { transform: translateX(50%); }
-    100% { transform: translateX(0); }
-  }
+<p align="center">
+Building ideas through code and design.
+</p>
 
-  h1, h2, h3, h4 {
-    text-align: center;
-  }
+---
 
-  p, ul {
-    max-width: 800px;
-    margin: 0 auto 20px auto;
-    line-height: 1.6;
-  }
+## 🟢 About Me
 
-  ul {
-    list-style: none;
-    padding: 0;
-  }
+I am an **IT student and aspiring UI/UX designer** passionate about creating **clean, user-friendly, and impactful digital experiences**.
 
-  ul li {
-    margin-bottom: 10px;
-  }
+I enjoy building systems that combine **functionality, design, and real-world usefulness**.
 
-  a img {
-    transition: transform 0.3s;
-  }
+**Main Interests**
 
-  a img:hover {
-    transform: scale(1.1);
-  }
+- 💻 Software Development  
+- 🎨 UI/UX Design  
+- 📱 Mobile Application Development  
+- 🌐 Web Systems  
 
-  /* Section cards for better readability */
-  section {
-    padding: 40px 20px;
-    backdrop-filter: blur(10px);
-    background-color: rgba(0, 0, 0, 0.2);
-    margin: 20px auto;
-    border-radius: 15px;
-    max-width: 1000px;
-  }
-</style>
-</head>
-<body>
+---
 
-<h1>Hello, I'm Radcliff Unabia III 👋</h1>
-<p>IT Student • Aspiring UI/UX Designer • Developer</p>
-<p>Building ideas through code and design.</p>
+## 🟢 Tech Stack
 
-<section>
-  <h2>🟢 About Me</h2>
-  <p>I am an <strong>IT student and aspiring UI/UX designer</strong> passionate about creating <strong>clean, user-friendly, and impactful digital experiences</strong>.</p>
-  <p>I enjoy building systems that combine <strong>functionality, design, and real-world usefulness</strong>.</p>
-  <h3>Main Interests</h3>
-  <ul>
-    <li>💻 Software Development</li>
-    <li>🎨 UI/UX Design</li>
-    <li>📱 Mobile Application Development</li>
-    <li>🌐 Web Systems</li>
-  </ul>
-</section>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,php,nodejs,dart,flutter" />
+</p>
 
-<section>
-  <h2>🟢 Tech Stack</h2>
-  <p><img src="https://skillicons.dev/icons?i=python,js,java,html,css,php,nodejs,dart,flutter" alt="Programming Languages"></p>
-  <p><img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" alt="Databases"></p>
-  <p>Additional Tools: XAMPP, Firestore, Git, VS Code, Figma, Canva</p>
-</section>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+</p>
 
-<section>
-  <h2>🟢 Capstone Project</h2>
-  <h3>BantayBaha</h3>
-  <p><strong>BantayBaha</strong> is an <strong>IoT-based flood monitoring system</strong> designed to provide <strong>real-time water level monitoring and early warning notifications</strong>.</p>
-  <ul>
-    <li>📡 Water level monitoring using sensors</li>
-    <li>☁ Real-time cloud data storage</li>
-    <li>📊 Data visualization and history logs</li>
-    <li>📱 SMS notifications for flood alerts</li>
-    <li>🗺 Interactive map monitoring</li>
-  </ul>
-  <p>Technologies Used: ESP32, JSN-SR04T Sensor, Firebase, Leaflet, Arduino IDE, Web Dashboard</p>
-</section>
+Additional Tools: XAMPP, Firestore, Git, VS Code, Figma, Canva
 
-<section>
-  <h2>🟢 Connect With Me</h2>
-  <p>
-    <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook"></a>
-    <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail"></a>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"></a>
-  </p>
-</section>
+---
 
-<p style="text-align:center; margin-top:40px;">I once dreamed of building structures that touch the sky. Now I build systems that live quietly behind the screen.</p>
+## 🟢 Capstone Project
 
-</body>
-</html>
+### BantayBaha
+
+**BantayBaha** is an **IoT-based flood monitoring system** designed to provide **real-time water level monitoring and early warning notifications**.
+
+Key Features:
+
+- 📡 Water level monitoring using sensors  
+- ☁ Real-time cloud data storage  
+- 📊 Data visualization and history logs  
+- 📱 SMS notifications for flood alerts  
+- 🗺 Interactive map monitoring
+
+Technologies Used:
+
+- ESP32  
+- JSN-SR04T Sensor  
+- Firebase  
+- Leaflet  
+- Arduino IDE  
+- Web Dashboard
+
+---
+
+## 🟢 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🟢 Connect With Me
+
+<p align="center">
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-123524?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://mail.google.com/mail/u/0/#inbox">
+<img src="https://img.shields.io/badge/Gmail-123524?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-123524?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+I once dreamed of building structures that touch the sky. Now I build systems that live quietly behind the screen.
+</p>
